@@ -21,7 +21,7 @@ export default function SomethingIveBuilt() {
           <span className="text-AAsecondary font-sans text-sm  sm:text-xl"> 03.</span>
           <span className=" font-bold tracking-wider text-gray-200 text-lg md:text-2xl w-44 md:w-56 opacity-85">
             {" "}
-            Some Things I&apos;ve Built
+            Some Things I have Built
           </span>
         </div>
         <div className="bg-gray-400 h-[0.2px] w-full xl:w-1/3 md:w-1/2"></div>
@@ -156,7 +156,7 @@ users
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  It&apos; a Image generator <span className=""> 
+                  It is a Image generator <span className=""> 
                   It uses open Ai Api to generate images based on the text you enter
                   </span>
                 </p>
@@ -228,7 +228,7 @@ users
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  It&apos; a Travel blog-App <span className=""> 
+                  It is a Travel blog-App <span className=""> 
                  It is a tavel-blog application where people from diff countries can share their travel experiences,
                  post them and view other people's posts
                   </span>
@@ -301,7 +301,7 @@ users
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  It&apos; a Chat Application <span > 
+                  It is  a Chat Application <span > 
      This is a full stack chat application , where there is one to one chat and you can create
 groups , add user who have registered and even chat with them by searching their name, i
 have developed this using React js on the frontend and i have used my custom backend to
