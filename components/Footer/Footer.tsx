@@ -25,7 +25,7 @@ export default function Fotter(props: { githubUrl: string; hideSocialsInDesktop:
           return <ClickableIcon key={index} href={iconData.href} Icon={iconData.Icon} />;
         })}
       </div>
-      <a href={props.githubUrl} className="" target={"_blank"} rel="noreferrer">
+      <a href="https://github.com/Ankush109/portfolio" className="" target={"_blank"} rel="noreferrer">
         <div
           className="group flex flex-col font-mono justify-center items-center  text-gray-400 
     text-sm  space-y-2  "
